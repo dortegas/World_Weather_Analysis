@@ -9,7 +9,7 @@ We were in charge of collecting and presenting data for customers via a search p
 
 ## Resources
 
-  - Data Source: election_results.csv
+  - Data Source: WeatherPy_Database.csv
   - Software: Python 3.9.7, Jupyter Notebook and Pandas 1.2.4
   - Modules: Jupiter Gmaps and City PI
   - API: OpenWeather, Google Maps and Google Places
