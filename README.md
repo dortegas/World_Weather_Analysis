@@ -6,3 +6,7 @@ Plan My Trip is one of the top travel technology companies specializing in Inter
 We were in charge of collecting and presenting data for customers via a search page, which they will then filter based on weather preferences which will be used to identify potential travel destinations and nearby hotels. Also, this data helped us to predict the best time of year for people to plan their vacations.
 
 ## Resources
+
+Data Source: election_results.csv
+Software: Python 3.9.7, Jupyter Notebook
+API: Jupiter Gmaps, City PI, OpenWeather, Google Maps and Google Places
